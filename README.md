@@ -16,6 +16,7 @@ I enjoy solving complex engineering challenges, mentoring developers, driving ar
 
 🌍 Open to global opportunities and technical collaboration.
 
+
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://sangilimurugan492.github.io/SangiliMurugan/)
 * ✉️  You can contact me at [sangilimurugan492@gmail.com](mailto:sangilimurugan492@gmail.com)
@@ -23,6 +24,9 @@ I enjoy solving complex engineering challenges, mentoring developers, driving ar
 * 🧠  I'm learning Kotlin Multiplatform (KMP)
 * 🤝  I'm open to collaborating on E-Commerce, B2B, B2E, Banking, Payments App
 * ⚡   Available for technical consulting, mentoring, and freelance mobile application development.
+
+
+
 
 
 ###  🚀 Professional Highlights
@@ -34,14 +38,167 @@ I enjoy solving complex engineering challenges, mentoring developers, driving ar
 - 👨‍💻 Led teams of 5–10 engineers
 - 🎤 Conducted 60+ technical interviews
 - 🏆 Samsung Best Employee (2022 & 2023)
-  
 
-### Skills
 
+
+
+### 🛠️ Tech Stack & Skills
+
+### 📱 Mobile Development
 
 <p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+<a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android"/>
+</a>
+
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="40" height="40" alt="Kotlin"/>
+</a>
+
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java"/>
+</a>
+
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="40" height="40" alt="Flutter"/>
+</a>
+
+<a href="https://dart.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="40" height="40" alt="Dart"/>
+</a>
+
+<a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Jetpack Compose"/>
+</a>
 </p>
+
+---
+
+### 🏗️ Architecture & Backend
+
+<p align="left">
+
+<a href="https://developer.android.com/topic/libraries/architecture" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Clean Architecture"/>
+</a>
+
+<a href="https://dagger.dev/hilt/" target="_blank">
+<img src="https://cdn.simpleicons.org/dagger/0175C2" width="40" height="40" alt="Hilt"/>
+</a>
+
+<a href="https://kotlinlang.org/docs/coroutines-overview.html" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="40" height="40" alt="Coroutines"/>
+</a>
+
+<a href="https://restfulapi.net/" target="_blank">
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" alt="REST API"/>
+</a>
+
+</p>
+
+---
+
+### ☁️ Cloud & Database
+
+<p align="left">
+
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase"/>
+</a>
+
+<a href="https://cloud.google.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="40" height="40" alt="Google Cloud"/>
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL"/>
+</a>
+
+</p>
+
+---
+
+### ⚙️ Tools & DevOps
+
+<p align="left">
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</a>
+
+<a href="https://github.com/features/actions" target="_blank">
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" height="40" alt="GitHub Actions"/>
+</a>
+
+<a href="https://www.jenkins.io/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins"/>
+</a>
+
+<a href="https://developer.android.com/studio" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/>
+</a>
+
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" height="40" alt="VS Code"/>
+</a>
+
+<a href="https://developer.apple.com/xcode/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="40" height="40" alt="Xcode"/>
+</a>
+
+</p>
+
+---
+
+### 💻 Operating Systems
+
+<p align="left">
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux"/>
+</a>
+
+<a href="https://www.apple.com/macos/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="40" height="40" alt="macOS"/>
+</a>
+
+</p>
+
+
+
+
+### 🚀 Core Expertise
+
+- 📱 Android Development
+- 🎯 Flutter Development
+- ☕ Kotlin & Java
+- 🎨 Jetpack Compose
+- 🏗️ Clean Architecture
+- 📐 MVVM Architecture
+- 🔄 Kotlin Coroutines & Flow
+- 🔥 Firebase Services
+- 🌐 REST API Integration
+- 💳 Secure Payment Integration
+- 🚀 Performance Optimization
+- 👨‍💻 Technical Leadership
+- 👥 Team Mentoring
+- 🔍 Code Reviews
+- 📈 Agile Scrum & SDLC
+
+
+
 
 
 ### 📜 Certifications
@@ -52,6 +209,8 @@ I enjoy solving complex engineering challenges, mentoring developers, driving ar
 - Core Java
   
 
+
+
 ### 📂 Featured Repositories
 
 - 📱 DSA Learning
@@ -61,9 +220,13 @@ I enjoy solving complex engineering challenges, mentoring developers, driving ar
 - 📚 System Design Notes
 
 
+
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/sangilimurugan492" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sangilimuruganv205/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+
 
 
 ### Badges
