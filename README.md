@@ -10,22 +10,23 @@ Currently leading mobile engineering initiatives for Samsung Shop, contributing 
 
 My expertise includes Android, Kotlin, Flutter, Jetpack Compose, Clean Architecture, MVVM, Kotlin Coroutines, Firebase, REST APIs, and CI/CD.
 
-I enjoy solving complex engineering challenges, mentoring developers, driving architecture improvements, and delivering scalable mobile solutions with a strong focus on performance, quality, and user experience.
+Passionate about solving complex engineering challenges, mentoring developers, driving architecture improvements, and building scalable, high-performance mobile applications.
 
 🏆 Samsung Best Employee Awards (2022 & 2023)
 
 🌍 Open to global opportunities and technical collaboration.
 
 
+### 📫 Let's Connect
+
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://sangilimurugan492.github.io/SangiliMurugan/)
 * ✉️  You can contact me at [sangilimurugan492@gmail.com](mailto:sangilimurugan492@gmail.com)
-* 🚀  🚀 Currently building enterprise mobile applications for [Samsung shop](http://www.shop.samsung.com/in).
+* 🖥️  See my LinkedIn profile at [sangilimuruganv205](www.linkedin.com/in/sangilimuruganv205)
+* 🚀  Currently building enterprise mobile applications for [Samsung Shop](http://www.shop.samsung.com/in).
 * 🧠  I'm learning Kotlin Multiplatform (KMP)
-* 🤝  I'm open to collaborating on E-Commerce, B2B, B2E, Banking, Payments App
+* 🤝  I'm open to collaborating on E-Commerce, B2B, B2E, Banking, Payments Applications.
 * ⚡   Available for technical consulting, mentoring, and freelance mobile application development.
-
-
 
 
 
@@ -200,26 +201,29 @@ I enjoy solving complex engineering challenges, mentoring developers, driving ar
 
 
 
-
 ### 📜 Certifications
 
-- Jetpack Compose Development
-- Master System Design for Interviews
-- Data Structures & Algorithms
-- Core Java
+- Jetpack Compose Development (Udemy)
+- Master System Design for Interviews (Udemy)
+- Data Structures & Algorithms (Udemy)
+- Core Java Programming
   
-
-
 
 ### 📂 Featured Repositories
 
-- 📱 DSA Learning
+- 📱 [DSA Learning](https://github.com/sangilimurugan492/DSA-Learning)
 - 🏗️ Android Architecture Samples
 - 🎯 Jetpack Compose Samples
 - 🚀 Flutter Projects
 - 📚 System Design Notes
 
+  
 
+### 🏆 Awards
+
+🏆 Samsung Best Employee Award – 2022
+
+🏆 Samsung Best Employee Award – 2023
 
 
 ### Socials
