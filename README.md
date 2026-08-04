@@ -1,18 +1,40 @@
-Hi 👋 My name is Sangili Murugan V
+# Hi 👋 I'm Sangili Murugan V
 ==================================
 
-Mobile and Web Application Developer
+Lead Mobile Engineer | Android | Kotlin | Flutter | Mobile Architecture
 ------------------------------------
 
-Currently serving as a Lead Engineer at Mobile Programming India Pvt. Ltd., I have honed my skills in the full Software Development Life Cycle, from requirement analysis to production deployment. My expertise in Flutter, Dart, and Agile methodologies has enabled me to lead cross-functional teams effectively, ensuring timely project delivery and high-quality outcomes. Throughout my career, I have successfully managed multiple projects, including a recent initiative that resulted in a 70% increase in application performance. My ability to collaborate with stakeholders and translate business requirements into actionable user stories has been instrumental in driving project success. Additionally, my commitment to writing clean and maintainable code has consistently contributed to enhanced user experiences and client satisfaction. I am particularly proud of my recognition as Best Employee of the Year at Samsung in 2022 and 2023, which reflects my dedication to excellence and teamwork. I am eager to bring this same level of commitment and innovation to your organisation, contributing to mutual growth and success.
+Lead Mobile Engineer with 10+ years of experience designing, developing, and delivering enterprise-scale Android and Flutter applications across E-Commerce, Telecommunications, CRM, and Healthcare domains.
+
+Currently leading mobile engineering initiatives for Samsung Shop, contributing to applications serving 100M+ users across 50+ countries.
+
+My expertise includes Android, Kotlin, Flutter, Jetpack Compose, Clean Architecture, MVVM, Kotlin Coroutines, Firebase, REST APIs, and CI/CD.
+
+I enjoy solving complex engineering challenges, mentoring developers, driving architecture improvements, and delivering scalable mobile solutions with a strong focus on performance, quality, and user experience.
+
+🏆 Samsung Best Employee Awards (2022 & 2023)
+
+🌍 Open to global opportunities and technical collaboration.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://sangilimurugan492.github.io/SangiliMurugan/)
 * ✉️  You can contact me at [sangilimurugan492@gmail.com](mailto:sangilimurugan492@gmail.com)
-* 🚀  I'm currently working on [Samsung](http://www.samsung.com/in)
-* 🧠  I'm learning Kotlin Multi Platform
+* 🚀  🚀 Currently building enterprise mobile applications for [Samsung shop](http://www.shop.samsung.com/in).
+* 🧠  I'm learning Kotlin Multiplatform (KMP)
 * 🤝  I'm open to collaborating on E-Commerce, B2B, B2E, Banking, Payments App
-* ⚡  I can able to contribute as freelance development and mentorship
+* ⚡   Available for technical consulting, mentoring, and freelance mobile application development.
+
+
+###  🚀 Professional Highlights
+
+- 📱 10+ years in Android & Flutter development
+- 🌍 Mobile applications serving 100M+ users
+- 🌎 Delivered solutions across 50+ countries
+- 🚀 40+ production releases
+- 👨‍💻 Led teams of 5–10 engineers
+- 🎤 Conducted 60+ technical interviews
+- 🏆 Samsung Best Employee (2022 & 2023)
+  
 
 ### Skills
 
@@ -22,9 +44,27 @@ Currently serving as a Lead Engineer at Mobile Programming India Pvt. Ltd., I ha
 </p>
 
 
+### 📜 Certifications
+
+- Jetpack Compose Development
+- Master System Design for Interviews
+- Data Structures & Algorithms
+- Core Java
+  
+
+### 📂 Featured Repositories
+
+- 📱 DSA Learning
+- 🏗️ Android Architecture Samples
+- 🎯 Jetpack Compose Samples
+- 🚀 Flutter Projects
+- 📚 System Design Notes
+
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/sangilimurugan492" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sangilimuruganv205/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
 
 ### Badges
 
